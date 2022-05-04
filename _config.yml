@@ -1,6 +1,17 @@
-title: Asish Sajan
-logo: /assets/img/Photo.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Asish Sajan </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+      Im a Computer Vision Enthusiast.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
